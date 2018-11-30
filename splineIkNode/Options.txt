@@ -1,0 +1,20 @@
+//////////////////////////////////////////////////////////////////
+// Options.txt - These are the base options that you selected
+//////////////////////////////////////////////////////////////////
+
+You have selected to use Maya 2017
+
+Vendor Name is: Alisa
+
+Verbose Comments ON
+
+Plug-in type number (0-Empty, 1-MEL, 2-MEL w/Undo, 3-DG Node)
+1
+
+Maya Type Name (Plug-in Name)
+splineIkNode
+
+Included Libraries:
+Foundation
+OpenMaya
+OpenMayaUI
